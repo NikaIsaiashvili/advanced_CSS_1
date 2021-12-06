@@ -1,0 +1,25 @@
+{
+  "name": "advanced_css_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikaIsaiashvili/advanced_css_1.git"
+  },
+  "author": "Nika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikaIsaiashvili/advanced_css_1/issues"
+  },
+  "homepage": "https://github.com/NikaIsaiashvili/advanced_css_1#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "description": ""
+}
